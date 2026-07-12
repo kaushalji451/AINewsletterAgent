@@ -1,1 +1,0 @@
-{"version":3,"file":"process.js","sourceRoot":"","sources":["../../../src/graph/nodes/process.ts"],"names":[],"mappings":"AAEA,MAAM,CAAC,KAAK,UAAU,YAAY,CAChC,KAAwC;IAExC,MAAM,EAAE,KAAK,EAAE,GAAG,KAAK,CAAC;IAExB,MAAM,QAAQ,GAAG,eAAe,KAAK,0EAA0E,CAAC;IAEhH,OAAO;QACL,MAAM,EAAE,QAAQ;QAChB,QAAQ,EAAE,CAAC,QAAQ,CAAC;KACrB,CAAC;AACJ,CAAC"}

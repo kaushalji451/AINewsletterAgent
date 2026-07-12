@@ -1,1 +1,0 @@
-{"version":3,"file":"conditional.js","sourceRoot":"","sources":["../../../src/graph/edges/conditional.ts"],"names":[],"mappings":"AAEA,MAAM,UAAU,cAAc,CAC5B,KAAwC;IAExC,IAAI,KAAK,CAAC,KAAK,CAAC,IAAI,EAAE,CAAC,MAAM,KAAK,CAAC,EAAE,CAAC;QACpC,OAAO,SAAS,CAAC;IACnB,CAAC;IACD,OAAO,SAAS,CAAC;AACnB,CAAC"}

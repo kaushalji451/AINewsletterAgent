@@ -1,1 +1,0 @@
-{"version":3,"file":"process.d.ts","sourceRoot":"","sources":["../../../src/graph/nodes/process.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,oBAAoB,EAAE,MAAM,aAAa,CAAC;AAExD,wBAAsB,YAAY,CAChC,KAAK,EAAE,OAAO,oBAAoB,CAAC,KAAK,GACvC,OAAO,CAAC;IAAE,MAAM,EAAE,MAAM,CAAC;IAAC,QAAQ,EAAE,MAAM,EAAE,CAAA;CAAE,CAAC,CASjD"}
